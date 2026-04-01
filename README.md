@@ -2,9 +2,7 @@
 
 A lightweight e-Library management system designed to simplify digital book management and user access in small to medium-scale applications.
 
-Built with **Node.js**, **Express.js**, **MongoDB**, and **Vue.js**.  
-The project provides secure user management, JWT-based authentication, and book CRUD operations.  
-Designed with modular structure for scalability and easy integration with modern web applications.  
+Built with **Node.js**, **Express.js**, **MongoDB**, and **Vue.js**, the project provides secure user management, JWT-based authentication, and book CRUD operations. It follows a modular structure for scalability and easy integration with modern web applications.
 
 ## Features  
 - **User Management**: Registration, login, and JWT-based authentication  
