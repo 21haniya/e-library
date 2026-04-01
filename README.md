@@ -1,6 +1,8 @@
 # 📚 Mini e-Library Application  
 
-A lightweight e-Library management system built with **Node.js**, **Express.js**, **MongoDB**, and **Vue.js**.  
+A lightweight e-Library management system designed to simplify digital book management and user access in small to medium-scale applications.
+
+Built with **Node.js**, **Express.js**, **MongoDB**, and **Vue.js**.  
 The project provides secure user management, JWT-based authentication, and book CRUD operations.  
 Designed with modular structure for scalability and easy integration with modern web applications.  
 
